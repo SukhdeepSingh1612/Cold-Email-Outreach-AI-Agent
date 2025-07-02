@@ -1,6 +1,8 @@
 
 # Visexa AI Cold Email Outreach App
 
+### Deployed on streamlit : https://cold-email-outreach-ai-agent-xxnxjfw6acarjsjansrkvb.streamlit.app/
+
 This is a Streamlit-based AI-powered tool for generating and sending professional cold emails for Visexa AI. The app uses multiple AI agents to:
 - Write personalized cold emails
 - Craft subject lines
