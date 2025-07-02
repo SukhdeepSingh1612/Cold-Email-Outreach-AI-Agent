@@ -21,7 +21,7 @@ This is a Streamlit-based AI-powered tool for generating and sending professiona
 
 - Python 3.8+
 - Dependencies listed in `requirements.txt` (you must create one, see below)
-- `.env` file with SendGrid API key
+- `.env` file with SendGrid API key and OPENAI API key
 
 ## 🔐 Environment Variables
 
@@ -29,6 +29,7 @@ Create a `.env` file with:
 
 ```
 SENDGRID_API_KEY=your_sendgrid_api_key
+OPENAI_API_KEY=your_openai_api_key
 ```
 
 ## 🚀 Running the App
